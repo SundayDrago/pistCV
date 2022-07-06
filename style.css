@@ -1,12 +1,12 @@
 body{
   margin:0px;
+  }
   .container{
     background-color:grey;
     width:450px;
     height:680px;
     padding:300px;
   }
-}
 .first-container{
   background-color: pink;
   width: 200px;
