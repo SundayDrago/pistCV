@@ -1,5 +1,11 @@
 body{
   margin:0px;
+  .container{
+    background-color:grey;
+    width:450px;
+    height:680px;
+    padding:300px;
+  }
 }
 .first-container{
   background-color: pink;
@@ -12,7 +18,7 @@ body{
 }
 .first-container:hover{background-color: black}
 .second-container{
-  background-color: grey;
+  background-color: #409783;
   width: 200px;
   height: 100px;
   position: absolute;
